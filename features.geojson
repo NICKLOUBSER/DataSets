@@ -2,7 +2,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Type": "Fiber"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -42,7 +44,43 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Type": "Wifi"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.291505,
+              -26.166807
+            ],
+            [
+              28.291589,
+              -26.167405
+            ],
+            [
+              28.289271,
+              -26.167666
+            ],
+            [
+              28.288974,
+              -26.16671
+            ],
+            [
+              28.291505,
+              -26.166807
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "506f68f476d5207a4469710f561f9730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Fiber"
+      },
       "geometry": {
         "coordinates": [
           [
