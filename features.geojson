@@ -45,7 +45,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Wifi"
+        "Type": "Wifi",
+        "fill-color": "#caf0f8"
       },
       "geometry": {
         "coordinates": [
@@ -79,7 +80,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Fiber"
+        "Type": "Fiber",
+        "fill-color": "#0096c7"
       },
       "geometry": {
         "coordinates": [
