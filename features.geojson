@@ -46,7 +46,8 @@
       "type": "Feature",
       "properties": {
         "Type": "Wifi",
-        "fill-color": "#caf0f8"
+        "fill-color": "#caf0f8",
+        "id": "Fiber"
       },
       "geometry": {
         "coordinates": [
