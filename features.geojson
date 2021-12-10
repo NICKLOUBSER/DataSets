@@ -3,7 +3,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Fiber"
+        "Type": "Fiber",
+        "id": "Wifi"
       },
       "geometry": {
         "coordinates": [
@@ -112,6 +113,40 @@
         "type": "Polygon"
       },
       "id": "dd5fc641d826c7b19717ed165d8e9e9a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Wifi"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.29086,
+              -26.164883
+            ],
+            [
+              28.290673,
+              -26.16573
+            ],
+            [
+              28.288574,
+              -26.16567
+            ],
+            [
+              28.288383,
+              -26.164834
+            ],
+            [
+              28.29086,
+              -26.164883
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "f4e6a8dda760be16c61e468a04e864d9"
     }
   ],
   "type": "FeatureCollection"
